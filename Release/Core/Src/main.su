@@ -1,0 +1,7 @@
+main.c:241:6:RedTask_App	24	static
+main.c:272:6:GreenTask_App	24	static
+main.c:318:6:LBtnTask_App	8	static
+main.c:163:6:SystemClock_Config	88	static,ignoring_inline_asm
+main.c:74:5:main	136	static
+main.c:340:6:HAL_TIM_PeriodElapsedCallback	0	static
+main.c:357:6:Error_Handler	0	static,ignoring_inline_asm
